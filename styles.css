@@ -67,13 +67,7 @@ html{
     flex-wrap: wrap;
 }
 .svg-plusminus{
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-    /* justify-content: flex-end; */
-    /* align-items: center; */
     cursor: pointer;
-    /* border: solid red 2px; */
     grid-area: svgplus;
 }
 
