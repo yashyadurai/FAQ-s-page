@@ -6,4 +6,4 @@
   <li>CSS</li>
   <li>Javascript</li>
 </ul>
-<a href="https://yashyadurai.github.io/FAQ-s-page/">Live link</a>
+<a href="https://yashyadurai.github.io/FAQ-s-page/" target="_blank">Live link</a>
